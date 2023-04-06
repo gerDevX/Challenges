@@ -1,0 +1,15 @@
+Deta --- App Deploy
+{
+        "name": "api",
+        "id": "3b8e6597-eaf4-4271-a22b-22e90d41d096",
+        "project": "b0xeh1kp",
+        "runtime": "python3.9",
+        "endpoint": "https://jkj5mw.deta.dev",
+        "region": "us-east-1",
+        "visor": "enabled",
+        "http_auth": "disabled"
+}
+
+https://jkj5mw.deta.dev
+
+
